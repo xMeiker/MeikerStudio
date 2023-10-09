@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "meikerstudio",
   "version": "2.0.5",
-  "productName": "Helios Launcher",
+  "productName": "MeikerStudio",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) modidied by xMeiker",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/xMeiker/MeikerStudio",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/xMeiker/MeikerStudio/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/xMeiker/MeikerStudio.git"
   }
 }
